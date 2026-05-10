@@ -1,0 +1,11 @@
+numpy>=1.24
+scipy>=1.11
+matplotlib>=3.7
+plotly>=5.18
+streamlit>=1.32
+pandas>=2.0
+pillow>=10.0
+tensorflow>=2.13         # for CNN training; CPU-only install: tensorflow-cpu
+scikit-learn>=1.3        # for classification_report
+joblib>=1.3              # for saving the feature classifier
+jupyter>=1.0             # for running notebooks
